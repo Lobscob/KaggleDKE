@@ -1,5 +1,5 @@
 # KaggleDKE
-DKE kaggle competition, a competition among students about predicting weather a link is clickbait or not. This competition was part of a year 3 course named Data Analysis. This was a collaboration between Xavier Weber and Jeroen Vermazeren. Final grade 7. 
+DKE kaggle competition, a competition among students about predicting weather a link is clickbait or not. This competition was part of a year 3 course named Data Analysis at **Maastricht University**. This was a collaboration between **Xavier Weber** and **Jeroen Vermazeren**. Final grade 7. 
 
 # Original Description below:
 
