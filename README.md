@@ -1,7 +1,7 @@
 # KaggleDKE
 DKE kaggle competition, a competition among students about predicting weather a link is clickbait or not. This competition was part of a year 3 course named Data Analysis at **Maastricht University**. This was a collaboration between **Xavier Weber** and **Jeroen Vermazeren**. Final grade 7. 
 
-# Original Description below:
+**Original Description below:**
 
 This is the official Kaggle page for the DKE/KEN3450 "Data Analysis" competition.
 Overview
@@ -20,3 +20,9 @@ Basic Info
 
     Use tab "Data" to find relevant information about the dataset you are going to be using.
     While you can submit a solution based on what we learned during the course, feel free to use your favorite programming language and/or your preferred machine learning methods.
+
+**Files**
+* train.csv - the training set : contains 29734 rows (1 header row + 29733 data points)
+* test.csv - the test set: contains 9912 rows (1 header row + 9911 data points)
+* sample_sol.csv - a sample submission file in the correct format
+* derived.csv - the released solution after assignment was graded
